@@ -4,7 +4,7 @@
 📧 garrysh04@gmail.com | 🔗 linkedin.com/in/garry0804  
 
   AI/ML Eng.
-  <a href="file:///C:/Users/garry/.gemini/antigravity/scratch/portfolio/index.html">
+  <a href="https://garrysh04.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
