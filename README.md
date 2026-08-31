@@ -1,3 +1,56 @@
+## Gaurav Sharma
+
+**Machine Learning & Data Engineer** — Dublin, Ireland
+
+I build the data pipelines and machine learning models that turn raw data into something a business can act on. MSc in Artificial Intelligence, BSc in Computer Science, and two years of production data work at a fintech marketplace.
+
+Currently looking for a junior-to-mid ML Engineer, Data Engineer or Data Analyst role in Dublin. Stamp 1G graduate permission valid to February 2027.
+
+[garrysh04.github.io](https://garrysh04.github.io) · [linkedin.com/in/garry0804](https://linkedin.com/in/garry0804) · garrysh04@gmail.com
+
+---
+
+### Projects
+
+| Repository | What it is | Result |
+|---|---|---|
+| [bird-species-classification](https://github.com/Garrysh04/bird-species-classification) | CNN for fine-grained species identification from live webcam input | 79.8% test accuracy, 88.5% validation — the gap is the interesting part |
+| [countries-by-gdp-etl](https://github.com/Garrysh04/countries-by-gdp-etl) | Complete extract–transform–load pipeline: scrape, clean, land to CSV and SQLite, with run logging | Reproducible against a pinned source snapshot |
+| [market-basket-analysis](https://github.com/Garrysh04/market-basket-analysis) | Apriori association rules over retail transactions | Support, confidence and lift computed from first principles before the library call |
+| [spotify-music-recommender](https://github.com/Garrysh04/spotify-music-recommender) | Content-based recommendation over Spotify audio features | Cosine similarity on standardised feature vectors |
+
+Flight price prediction — XGBoost regressor on live Kiwi Tequila API data — is written up at [garrysh04.github.io](https://garrysh04.github.io); repository to follow.
+
+---
+
+### What I work in
+
+**Languages & data** — Python, SQL, pandas, NumPy
+**ML & deep learning** — scikit-learn, XGBoost, TensorFlow, Keras, OpenCV
+**Data engineering** — PySpark, Databricks, ETL pipeline design, SQLite
+**Cloud & tooling** — Azure, AWS, Git, Docker, Jupyter
+**Applied areas** — predictive modelling, computer vision, recommender systems, association rule mining, LLM workflows and chatbot integration
+
+---
+
+### Experience
+
+**Data Management Specialist** — WishFin, Delhi · Mar 2022 – Jun 2023
+Owned data integrity and consistency across lending and marketplace platforms. Built the validation and reconciliation checks that kept customer, product and loan data consistent across systems. Re-engineered high-volume data acquisition workflows, cutting acquisition costs by 30%. Co-designed and shipped the customer-support chatbot on the company website, removing roughly two-thirds of routine queries from the support desk, then documented its architecture and trained the internal team to maintain it.
+
+**Assistant Relationship Manager** — Mywish Marketplaces, New Delhi · Jan 2021 – Mar 2022
+Managed the relationship with TATA Capital, one of the company's largest partner accounts. Contributed to a 60% increase in client conversion by reworking how leads were qualified and followed up. This was the role that pushed me toward data work.
+
+Since moving to Ireland I have worked full time outside tech — warehouse operations and currently site security — while completing the MSc and building the projects above. It is on my LinkedIn and I would rather name it than let it look like a gap.
+
+---
+
+### Education
+
+**MSc Artificial Intelligence** — Dublin Business School, 2023–2025
+Thesis: the effect of data augmentation on lightweight models — showing that augmenting raw training data lets smaller architectures reach comparable performance at a fraction of the computational load, widening where such models can realistically be deployed.
+
+**BSc Computer Science** — Vivekananda Institute of Professional Studies, 2018–2021
 <h2 align="left">👋 Hi, I'm Gaurav Sharma  
 🚀 Machine Learning Engineer | AI Practitioner | Data Pipeline Developer  
 📍 Dublin, Ireland  
